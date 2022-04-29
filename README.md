@@ -1,1 +1,8 @@
-# jenkins
+
+# Jenkins is an automation tool
+
+Jenkins is an open source software and works with any operation system
+
+jenkins was built in java
+
+Its a widely used continious integration server 
